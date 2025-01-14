@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="230" >
 <br>
-<p><em>I'm a logo designer. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>. Currently focusing on learning various new technologies and mastering them. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>I'm a logo designer. Sometimes I write articles on <a href="">Hashnode</a>. Currently focusing on learning various new technologies and mastering them. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 <br>
 
