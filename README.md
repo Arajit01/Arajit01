@@ -10,6 +10,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+for freelance work? do reach, [email](mailto: arajithalder123@gmail.com) :)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   28 hrs 26 mins  █████████████████████▒░░░   84.92 %
+Python       4 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+JSON         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arajit.halder.58?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arajit.halder.58?igsh=cGlvNDVjdmhyYzFs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arajit-halder-8804a2205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@artboardstudio621) 
 
