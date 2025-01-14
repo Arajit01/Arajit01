@@ -4,10 +4,16 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Arajit01/Arajit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align='right' src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="230" >
+<br>
+<p><em>I'm a logo designer. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>. Currently focusing on learning various new technologies and mastering them. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+<br>
+
+
+
+
+### <img src="https://media.giphy.com/media/JmCpR6X9LvFXt1K9eT/giphy.gif" width="50"> A little more about me...  
 
 
 for freelance work? do reach, [email](mailto: arajithalder123@gmail.com) :)
